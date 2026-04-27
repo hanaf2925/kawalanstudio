@@ -1,0 +1,68 @@
+{
+  "username": "kawalanstudio",
+  "new_username": "kawalanstudio/cute-aesthethic-wallpaper",
+  "section_mode": true,
+  "album": [
+    {
+      "name": "Aesthethic",
+      "init_jumlah_photo": 300
+    },
+    {
+      "name": "Animal",
+      "init_jumlah_photo": 50
+    },
+    {
+      "name": "Fruit",
+      "init_jumlah_photo": 50
+    },
+    {
+      "name": "Flower",
+      "init_jumlah_photo": 50
+    },
+    {
+      "name": "Nature",
+      "init_jumlah_photo": 50
+    },
+    {
+      "name": "Food",
+      "init_jumlah_photo": 50
+    },
+    {
+      "name": "Lofi",
+      "init_jumlah_photo": 50
+    },
+    {
+      "name": "Retro",
+      "init_jumlah_photo": 50
+    }
+  ],
+  "show_interstitial_in_list": false,
+  "init_jumlah_photo": 200,
+  "admob_banner_id": "ca-app-pub-1212394056870821/8625583791",
+  "admob_interstitial_id": "ca-app-pub-1212394056870821/4686338784",
+  "admob_native_id": "ca-app-pub-1212394056870821/9802934096",
+  "admob_rewarded_interstitial_id": "",
+  "admob_open_app_id": "",
+
+  "admob_hpk_1": "kawaii",
+  "admob_hpk_2": "cute",
+  "admob_hpk_3": "aesthetic",
+  "admob_hpk_4": "pastel",
+  "admob_hpk_5": "girly",
+
+  "startapp_app_id": "12345677890",
+
+  "interstitial_inverval": 3,
+
+  "list_ads": [
+    "ADMOB"
+  ],
+
+  "unity_id": "1234567",
+  "unity_banner": "Banner_Android",
+  "unity_interstitial": "Interstitial_Android",
+
+  "applovin_sdk_key": "",
+  "applovin_banner_id":"",
+  "applovin_inter_id":""
+}
