@@ -1,0 +1,72 @@
+{
+  "username": "kawalanstudio",
+  "new_username": "kawalanstudio/cute-cat-wallpapers-hd",
+  "section_mode": true,
+  "album": [
+    {
+      "name": "Quotescat",
+      "init_jumlah_photo": 50
+    },
+    {
+      "name": "Minimalcat",
+      "init_jumlah_photo": 50
+    },
+    {
+      "name": "Catpattern",
+      "init_jumlah_photo": 50
+    },
+    {
+      "name": "Catmeme",
+      "init_jumlah_photo": 50
+    },
+    {
+      "name": "Aestheticcat",
+      "init_jumlah_photo": 50
+    },
+    {
+      "name": "Whitecat",
+      "init_jumlah_photo": 50
+    },
+    {
+      "name": "Kittens",
+      "init_jumlah_photo": 50
+    },
+    {
+      "name": "Blackcat",
+      "init_jumlah_photo": 50
+    },
+    {
+      "name": "cutecat",
+      "init_jumlah_photo": 50
+    }
+  ],
+  "show_interstitial_in_list": false,
+  "init_jumlah_photo": 50,
+  "admob_banner_id": "ca-app-pub-1212394056870821/2195501573",
+  "admob_interstitial_id": "ca-app-pub-1212394056870821/4163189363",
+  "admob_native_id": "ca-app-pub-1212394056870821/2658536004",
+  "admob_rewarded_interstitial_id": "",
+  "admob_open_app_id": "ca-app-pub-1212394056870821/1872067944",
+
+  "admob_hpk_1": "cat",
+  "admob_hpk_2": "cute",
+  "admob_hpk_3": "aesthetic",
+  "admob_hpk_4": "pastel",
+  "admob_hpk_5": "girly",
+
+  "startapp_app_id": "12345677890",
+
+  "interstitial_inverval": 3,
+
+  "list_ads": [
+    "ADMOB"
+  ],
+
+  "unity_id": "1234567",
+  "unity_banner": "Banner_Android",
+  "unity_interstitial": "Interstitial_Android",
+
+  "applovin_sdk_key": "",
+  "applovin_banner_id":"",
+  "applovin_inter_id":""
+}
