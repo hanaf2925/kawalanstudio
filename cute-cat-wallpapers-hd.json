@@ -4,39 +4,39 @@
   "section_mode": true,
   "album": [
     {
-      "name": "Quotescat",
+      "name": "Cute Cat",
       "init_jumlah_photo": 50
     },
     {
-      "name": "Minimalcat",
+      "name": "Quotes Cat",
       "init_jumlah_photo": 50
     },
     {
-      "name": "Catpattern",
+      "name": "Minimal Cat",
       "init_jumlah_photo": 50
     },
     {
-      "name": "Catmeme",
+      "name": "Cat Pattern",
       "init_jumlah_photo": 50
     },
     {
-      "name": "Aestheticcat",
+      "name": "Cat Meme",
       "init_jumlah_photo": 50
     },
     {
-      "name": "Whitecat",
+      "name": "Aesthetic Cat",
       "init_jumlah_photo": 50
     },
     {
-      "name": "Kittens",
+      "name": "White Cat",
       "init_jumlah_photo": 50
     },
     {
-      "name": "Blackcat",
+      "name": "Kitten",
       "init_jumlah_photo": 50
     },
     {
-      "name": "cutecat",
+      "name": "Black Cat",
       "init_jumlah_photo": 50
     }
   ],
